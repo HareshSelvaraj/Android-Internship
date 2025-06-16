@@ -20,8 +20,8 @@ This repository documents my entire journey through a 45-day Android internship,
 |----------|--------------------------------------|-----------|---------|----------------|
 | ✅ Task 1 | Onboarding & Environment Setup       | `Task 1/` | ✅ Done | Android Studio setup, GitHub repo, First App |
 | ✅ Task 2 | UI/UX Design & Implementation        | `Task 2/` | ✅ Done | Jetpack Compose, Navigation, Rounded Inputs |
-| ⏳ Task 3 | Backend Integration & API Dev        | `Task 3/` | 🔄 WIP | Firebase, REST API |
-| ⏳ Task 4 | Advanced Features & Testing          | `Task 4/` | ⏳ Pending | Auth, Notifications, Testing |
+| ✅ Task 3 | Backend Integration & API Dev        | `Task 3/` | ✅ Done | Firebase, REST API |
+| ⏳ Task 4 | Advanced Features & Testing          | `Task 4/` | 🔄 WIP | Auth, Notifications, Testing |
 | ⏳ Task 5 | Deployment & Final Presentation      | `Task 5/` | ⏳ Pending | Google Play, CI/CD, Final Demo |
 
 > ✅ Tasks will be updated here as I progress through each milestone.
