@@ -18,11 +18,11 @@ This repository documents my entire journey through a 45-day Android internship,
 
 | Task No. | Task Name                           | Folder    | Status  | Key Highlights |
 |----------|--------------------------------------|-----------|---------|----------------|
-| ✅ Task 1 | Onboarding & Environment Setup       | `Task 1/` | ✅ Done | Android Studio setup, First App |
-| ⏳ Task 2 | UI/UX Design & Implementation        | `Task 2/` | 🔄 WIP  | Layouts, Navigation |
-| ⏳ Task 3 | Backend Integration & API Dev        | `Task 3/` | ⏳ Pending | Firebase, REST API |
-| ⏳ Task 4 | Advanced Features & Testing          | `Task 4/` | ⏳ Pending | Auth, Notifications |
-| ⏳ Task 5 | Deployment & Final Presentation      | `Task 5/` | ⏳ Pending | Google Play, CI/CD |
+| ✅ Task 1 | Onboarding & Environment Setup       | `Task 1/` | ✅ Done | Android Studio setup, GitHub repo, First App |
+| ✅ Task 2 | UI/UX Design & Implementation        | `Task 2/` | ✅ Done | Jetpack Compose, Navigation, Rounded Inputs |
+| ⏳ Task 3 | Backend Integration & API Dev        | `Task 3/` | 🔄 WIP | Firebase, REST API |
+| ⏳ Task 4 | Advanced Features & Testing          | `Task 4/` | ⏳ Pending | Auth, Notifications, Testing |
+| ⏳ Task 5 | Deployment & Final Presentation      | `Task 5/` | ⏳ Pending | Google Play, CI/CD, Final Demo |
 
 > ✅ Tasks will be updated here as I progress through each milestone.
 
@@ -31,11 +31,12 @@ This repository documents my entire journey through a 45-day Android internship,
 ## 🛠️ Tools & Technologies Used
 
 - **Language**: Kotlin
+- **UI Framework**: Jetpack Compose
 - **IDE**: Android Studio
-- **Database**: Firebase Firestore (Upcoming)
 - **Version Control**: Git + GitHub
-- **Design**: XML, Jetpack Components
-- **Other Tools**: GitHub Actions (Planned), Figma (Design), Firebase Auth
+- **Design Tools**: Figma (for wireframes), Material3
+- **Backend (Upcoming)**: Firebase Firestore, Firebase Auth
+- **Other Tools**: GitHub Actions (Planned), Toast messages, Intents
 
 ---
 
@@ -43,21 +44,20 @@ This repository documents my entire journey through a 45-day Android internship,
 
 Each task contains:
 
-- 📁 Project folder with code (`Task X/`)
-- 🔗 GitHub versioned commit history
-- 🔗 LinkedIn post documenting learnings and video demo
+- 📁 Project folder with source code (`Task X/`)
+- ✅ GitHub commit history
+- 🔗 LinkedIn post documenting demo, learnings, and progress
 
 ---
 
 ## 🎓 About Me
 
-I’m Haresh, an aspiring Android developer currently pursuing Computer Science Engineering. This internship is a step forward in building real-world apps and mastering full-stack mobile development.
+I’m **Haresh Selvaraj**, an aspiring Android developer currently pursuing **Computer Science Engineering**. This internship is helping me build real-world mobile apps and understand full-stack mobile development from scratch to deployment.
 
 ---
 
 ## 📣 Stay Tuned
 
-More tasks and features will be added soon!
+More advanced features and real-time data integration are coming up in Task 3 and beyond.
 
 > _Made with ❤️ during my internship at [ApexPlanet Software Pvt. Ltd.](https://www.apexplanet.in/)_
-
