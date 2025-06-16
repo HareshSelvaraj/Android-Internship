@@ -15,8 +15,6 @@
 
 ---
 
-## 📅 June 2025 (Mid)
-
 ### ✅ Task 2 - UI/UX Design & Implementation
 - Switched to multi-screen layout using Jetpack Compose
 - Added 3 screens: Home, Info, Contact
@@ -27,13 +25,23 @@
 
 ---
 
+### ✅ Task 3 - Backend Integration & API Development
+- Connected the app to **Firebase Firestore**
+- Stored messages from Contact screen using `FirebaseFirestore`
+- Created `"messages"` collection with message + timestamp
+- Displayed success/failure using Toasts
+- Verified data inside Firebase Console (Cloud Firestore)
+- 📂 Code: `Task 3/`
+
+---
+
 ## ⏳ Coming Up
 
-### 🔄 Task 3 - Backend Integration & API Development
-- Integrate Firebase Firestore (CRUD)
-- Add authentication (optional)
-- Connect app UI with backend services
-- 📂 Will be added in: `Task 3/`
+### 🔄 Task 4 - Advanced Features & Testing
+- Implement Firebase Authentication
+- Add validation, error handling, and edge-case testing
+- Possibly add dark mode toggle or settings
+- 📂 Will be added in: `Task 4/`
 
 ---
 
