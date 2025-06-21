@@ -35,13 +35,24 @@
 
 ---
 
+### ✅ Task 4 - Advanced Features & Testing
+- Implemented **Firebase Authentication** (Email/Password login)
+- Created `LoginActivity` using Jetpack Compose
+- Redirected to `MainActivity` after successful login
+- Restricted Firestore read/write access to logged-in users
+- Added basic UI validation and error handling
+- 📂 Code: `Task 4/`
+
+---
+
 ## ⏳ Coming Up
 
-### 🔄 Task 4 - Advanced Features & Testing
-- Implement Firebase Authentication
-- Add validation, error handling, and edge-case testing
-- Possibly add dark mode toggle or settings
-- 📂 Will be added in: `Task 4/`
+### 🔄 Task 5 - Deployment & Final Presentation
+- Build and test release APK
+- Prepare Play Store assets (icons, screenshots)
+- Deploy using internal track
+- Create final demo video and presentation
+- 📂 Will be added in: `Task 5/`
 
 ---
 
