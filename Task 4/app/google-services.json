@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177567633800",
+    "project_id": "basicappfirebase-ad4de",
+    "storage_bucket": "basicappfirebase-ad4de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177567633800:android:09fac6cc41d6dcd88dea3d",
+        "android_client_info": {
+          "package_name": "com.example.basicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkrqKkLNsv3cZMn21JzPognzDzZUu57vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
