@@ -20,8 +20,8 @@ This repository documents my entire journey through a 45-day Android internship,
 |----------|--------------------------------------|-----------|---------|----------------|
 | ✅ Task 1 | Onboarding & Environment Setup       | `Task 1/` | ✅ Done | Android Studio setup, GitHub repo, First App |
 | ✅ Task 2 | UI/UX Design & Implementation        | `Task 2/` | ✅ Done | Jetpack Compose, Navigation, Rounded Inputs |
-| ✅ Task 3 | Backend Integration & API Dev        | `Task 3/` | ✅ Done | Firebase, REST API |
-| ⏳ Task 4 | Advanced Features & Testing          | `Task 4/` | 🔄 WIP | Auth, Notifications, Testing |
+| ✅ Task 3 | Backend Integration & API Dev        | `Task 3/` | ✅ Done | Firebase Firestore, Realtime message storage |
+| ✅ Task 4 | Advanced Features & Testing          | `Task 4/` | ✅ Done | Firebase Auth, Email/Password Login, Secure Firestore |
 | ⏳ Task 5 | Deployment & Final Presentation      | `Task 5/` | ⏳ Pending | Google Play, CI/CD, Final Demo |
 
 > ✅ Tasks will be updated here as I progress through each milestone.
@@ -35,7 +35,7 @@ This repository documents my entire journey through a 45-day Android internship,
 - **IDE**: Android Studio
 - **Version Control**: Git + GitHub
 - **Design Tools**: Figma (for wireframes), Material3
-- **Backend (Upcoming)**: Firebase Firestore, Firebase Auth
+- **Backend**: Firebase Firestore, Firebase Auth
 - **Other Tools**: GitHub Actions (Planned), Toast messages, Intents
 
 ---
@@ -58,6 +58,6 @@ I’m **Haresh Selvaraj**, an aspiring Android developer currently pursuing **Co
 
 ## 📣 Stay Tuned
 
-More advanced features and real-time data integration are coming up in Task 3 and beyond.
+Final deployment and project wrap-up are coming in **Task 5** — including testing, release build, and Play Store flow!
 
 > _Made with ❤️ during my internship at [ApexPlanet Software Pvt. Ltd.](https://www.apexplanet.in/)_
