@@ -22,7 +22,7 @@ This repository documents my entire journey through a 45-day Android internship,
 | ✅ Task 2 | UI/UX Design & Implementation        | `Task 2/` | ✅ Done | Jetpack Compose, Navigation, Rounded Inputs |
 | ✅ Task 3 | Backend Integration & API Dev        | `Task 3/` | ✅ Done | Firebase Firestore, Realtime message storage |
 | ✅ Task 4 | Advanced Features & Testing          | `Task 4/` | ✅ Done | Firebase Auth, Email/Password Login, Secure Firestore |
-| ⏳ Task 5 | Deployment & Final Presentation      | `Task 5/` | ⏳ Pending | Google Play, CI/CD, Final Demo |
+| ✅ Task 5 | Deployment & Final Presentation      | `Task 5/` | ✅ Done | Google Play, CI/CD, Final Demo |
 
 > ✅ Tasks will be updated here as I progress through each milestone.
 
@@ -37,6 +37,29 @@ This repository documents my entire journey through a 45-day Android internship,
 - **Design Tools**: Figma (for wireframes), Material3
 - **Backend**: Firebase Firestore, Firebase Auth
 - **Other Tools**: GitHub Actions (Planned), Toast messages, Intents
+
+---
+
+## 📂 Folder Structure
+
+Android-Internship/
+├── Task 1/ ← Hello World app
+├── Task 2/ ← 3 screens: Home, Info, Contact
+├── Task 3/ ← Firestore backend integration
+├── Task 4/ ← Login + Auth security
+├── Task 5/ ← Final APK + screenshots + Play Store
+└── CHANGELOG.md
+
+---
+## 🎓 Internship Reflection
+
+This internship helped me:
+
+- Develop a full-stack mobile app from scratch
+- Understand cloud backend integration using Firebase
+- Apply Jetpack Compose UI patterns
+- Package & release a real-world Android app
+- Practice professional Git + GitHub project structure
 
 ---
 
@@ -56,8 +79,18 @@ I’m **Haresh Selvaraj**, an aspiring Android developer currently pursuing **Co
 
 ---
 
-## 📣 Stay Tuned
+## 🔗 Related Links
 
-Final deployment and project wrap-up are coming in **Task 5** — including testing, release build, and Play Store flow!
+- 📂 [Project Repository](https://github.com/HareshSelvaraj/Android-Internship)
+- 📄 [CHANGELOG.md](CHANGELOG.md)
+- 📝 [LinkedIn Post – Final Reflection](#)
 
-> _Made with ❤️ during my internship at [ApexPlanet Software Pvt. Ltd.](https://www.apexplanet.in/)_
+> _Made with ❤️ during my Android Internship at [ApexPlanet Software Pvt. Ltd.](https://www.apexplanet.in/)_
+
+---
+
+
+## 📣 Let’s Connect
+
+I’m always open to collaboration or feedback.  
+👉 [LinkedIn](https://linkedin.com/in/hareshselvaraj)
