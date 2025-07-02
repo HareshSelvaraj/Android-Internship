@@ -45,14 +45,20 @@
 
 ---
 
-## ⏳ Coming Up
+### ✅ Task 5 - Deployment & Final Presentation
+- Generated signed APK for production release
+- Fixed UI issues and performed full app test
+- Recorded demo video and screenshots for presentation
+- Set up internal testing track on Google Play Console
+- Finalized README and LinkedIn post for the project
+- 📂 Code: `Task 5/`
 
-### 🔄 Task 5 - Deployment & Final Presentation
-- Build and test release APK
-- Prepare Play Store assets (icons, screenshots)
-- Deploy using internal track
-- Create final demo video and presentation
-- 📂 Will be added in: `Task 5/`
+---
+
+## ✅ Internship Completed 🎓
+
+This concludes all 5 tasks of the 45-day Android App Development Internship at ApexPlanet Software Pvt. Ltd.  
+Every task introduced new concepts, tools, and real-world development challenges. The project is complete, versioned, and Play Store–ready!
 
 ---
 
@@ -61,7 +67,7 @@
 - All progress is documented per task.
 - Each task has its own subfolder with source code.
 - Version control handled via GitHub.
-- Major visual or structural changes will be documented here.
+- Major visual or structural changes are documented here.
 
 ---
 
